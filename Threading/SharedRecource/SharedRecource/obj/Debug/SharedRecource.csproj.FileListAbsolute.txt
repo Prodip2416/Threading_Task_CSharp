@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\bin\Debug\SharedRecource.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\obj\Debug\SharedRecource.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\bin\Debug\SharedRecource.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\bin\Debug\SharedRecource.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\obj\Debug\SharedRecource.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\SharedRecource\SharedRecource\obj\Debug\SharedRecource.pdb

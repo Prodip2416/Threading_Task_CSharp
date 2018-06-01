@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\LocalMemory\LocalMemory\bin\Debug\LocalMemory.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\LocalMemory\LocalMemory\bin\Debug\LocalMemory.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\LocalMemory\LocalMemory\bin\Debug\LocalMemory.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\LocalMemory\LocalMemory\obj\Debug\LocalMemory.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\LocalMemory\LocalMemory\obj\Debug\LocalMemory.pdb

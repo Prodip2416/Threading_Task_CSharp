@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

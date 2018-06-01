@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\bin\Debug\ContextSwitching.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Threading\ContextSwitching\ContextSwitching\obj\Debug\ContextSwitching.pdb

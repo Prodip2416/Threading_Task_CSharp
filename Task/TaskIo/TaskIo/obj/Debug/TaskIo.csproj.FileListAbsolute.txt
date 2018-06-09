@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\bin\Debug\TaskIo.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\bin\Debug\TaskIo.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\bin\Debug\TaskIo.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\obj\Debug\TaskIo.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\obj\Debug\TaskIo.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIo\TaskIo\obj\Debug\TaskIo.pdb

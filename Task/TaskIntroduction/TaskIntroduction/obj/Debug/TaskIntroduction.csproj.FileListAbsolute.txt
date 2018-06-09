@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\bin\Debug\TaskIntroduction.exe.config
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\bin\Debug\TaskIntroduction.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\bin\Debug\TaskIntroduction.pdb
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\obj\Debug\TaskIntroduction.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\obj\Debug\TaskIntroduction.exe
+F:\Programming With DOT NET\ThreadingTaskSynchronization\Task\TaskIntroduction\TaskIntroduction\obj\Debug\TaskIntroduction.pdb
